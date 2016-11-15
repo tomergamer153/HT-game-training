@@ -10,6 +10,4 @@
 
 ------
 
-> Viam supervadet vadens
-
-> Дорогу осилит **идущий**
+> Viam supervadet vadens - Дорогу осилит **идущий**
